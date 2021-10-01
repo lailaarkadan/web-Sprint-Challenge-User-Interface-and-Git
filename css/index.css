@@ -72,7 +72,7 @@ header {
     
 }
 header nav {
-    width: 60%;
+    width: 58%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -122,12 +122,13 @@ header nav {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
+    background-color: teal;
     color: white;
     display: flex;
-    align-items: center;
+    align-items: center; 
     justify-content: center;
+ 
 }
 
 .bottom-content {
